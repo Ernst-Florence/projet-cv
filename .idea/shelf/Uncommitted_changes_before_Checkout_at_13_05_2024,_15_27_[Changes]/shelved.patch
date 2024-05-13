@@ -1,0 +1,230 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!doctype html>\n<html lang=\"de\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\"\n          content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n    <link rel=\"stylesheet\" href=\"./style/style.css\">\n    <title>Florence Ernst - Lebenslauf</title>\n</head>\n<body>\n<svg id=\"Layer_2\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 0 0\">\n   <symbol id=\"logo_FE\">\n           <path class=\"cls-3\" d=\"M78.65 17.19v12.74h21.8v12.66h-21.8v25.36h-12.7V4.53h38.1v12.66h-25.4ZM149.3 55.22v12.62h-38.1V4.65h12.7v50.57h25.4ZM327.55 13.76v12.35h21.8v12.66h-21.8v13.05h25.4v12.62h-38.1V1.25h38.1v12.5h-25.4ZM414.01 1.1v64.52h-.59l-37.51-36.49v35.4h-12.7V.08h.63l37.44 36.42V1.1h12.74ZM419.52 32.93C419.52 15.09 434.53 0 452.33 0c8.23.12 15.52 3.37 22.15 9.76l-7.33 10c-4.31-4.23-9.49-6.82-14.94-6.82-10.15 0-19.83 9.02-19.83 20.07s10.04 19.95 19.8 19.95c5.8 0 10.82-3.1 15.01-7.21l7.29 10.27c-5.57 5.53-12.35 9.68-21.91 9.68-18.23 0-33.04-15.01-33.04-32.77ZM276.64 84.16v12.35h24.44v12.66h-24.44v13.05h28.49v12.62H262.4V71.65h42.73v12.5h-28.49ZM495.79 13.76v12.35h24.44v12.66h-24.44v13.05h28.49v12.62h-42.73V1.25h42.73v12.5h-28.49ZM276.64 155.08v12.35h24.44v12.66h-24.44v13.05h28.49v12.62H262.4v-63.19h42.73v12.5h-28.49ZM93.41 155.08v12.35h24.44v12.66H93.41v13.05h28.49v12.62H79.17v-63.19h42.73v12.5H93.41ZM291.44 64.44 273.6 34.57v29.87h-11.26l-.04-63.19h18.29c10.46 0 19.05 9.09 19.05 20.46 0 8.11-4.35 15.21-10.36 17.6l15.92 25.13h-13.77Zm-17.87-34.73 7.23.04c3.82.04 7.23-3.45 7.23-7.96s-3.44-7.96-7.23-7.96h-7.23v15.88ZM344.03 134.84l-17.84-29.87v29.87h-11.26l-.04-63.19h18.29c10.46 0 19.05 9.09 19.05 20.46 0 8.11-4.35 15.21-10.36 17.6l15.92 25.13h-13.77Zm-17.87-34.73 7.23.04c3.82.04 7.23-3.45 7.23-7.96s-3.44-7.96-7.23-7.96h-7.23v15.88ZM414.01 71.49v64.52h-.59l-37.51-36.49v35.4h-12.7V70.48h.63l37.44 36.42V71.5h12.74ZM424.42 123.98l10.15-7.13c2.78 4.47 6.82 6.51 12.27 6.51 5.96 0 9.96-2.43 9.96-5.8 0-4.63-7.57-8.27-14.19-11.56-7.09-3.53-14.9-7.41-14.9-17.48 0-10.94 9.25-18.15 20.85-18.15 8.62 0 15.76 3.57 18.62 11.21l-9.37 6.55c-1.88-3.76-5.53-5.29-9.06-5.29-4.74 0-8.27 2.74-8.27 6 0 3.76 4.78 5.06 12.03 8.47 10.47 4.94 17.05 10.27 17.05 19.99 0 11.52-9.41 18.85-22.93 18.85-10.35 0-17.99-4.31-22.23-12.15ZM524.82 84.23H509.3v50.61h-12.74V84.23H481V71.65h43.83v12.58ZM0 143.34h13.68l9.72 31.87 13.56-31.63h.24l13.52 31.6 9.68-31.83h13.72l-20.58 63.97h-.74l-15.88-34.34-15.64 34.34h-.71L0 143.34ZM171.47 186.6c0 9.33-6.7 19.17-19.72 19.17h-23.87v-63.19h17.25c11.21 0 18.35 8.23 18.35 16.74 0 6.7-4.43 10.86-5.96 10.86 6.08 0 13.96 6.27 13.96 16.42Zm-30.93-31.68v12.35h5.14c3.02 0 5.96-2.59 5.96-6.27s-2.78-6.08-5.72-6.08h-5.37Zm18.54 30.78c0-3.65-2.51-7.29-8.55-7.29h-10v14.97h10.04c4.12 0 8.51-2.82 8.51-7.68ZM253.4 174.25c0 19.6-12.47 31.52-32.89 31.52h-18.38v-63.15l18.38-.04c20.42-.04 32.89 11.96 32.89 31.67Zm-12.81-.04c0-11.84-7.6-19.05-20.11-19.05h-5.68v37.95h5.8c12.43 0 19.99-7.13 19.99-18.89ZM309.83 194.91l10.15-7.13c2.78 4.47 6.82 6.51 12.27 6.51 5.96 0 9.96-2.43 9.96-5.8 0-4.63-7.57-8.27-14.19-11.56-7.1-3.53-14.9-7.41-14.9-17.48 0-10.94 9.25-18.15 20.85-18.15 8.62 0 15.76 3.57 18.62 11.21l-9.37 6.55c-1.88-3.76-5.53-5.29-9.06-5.29-4.74 0-8.27 2.74-8.27 6 0 3.76 4.78 5.06 12.03 8.47 10.47 4.94 17.05 10.27 17.05 19.99 0 11.52-9.41 18.85-22.93 18.85-10.35 0-17.99-4.31-22.23-12.15ZM363.19 142.58h12.7v63.19h-12.7v-63.19ZM452.02 175.64c0 19.83-13.68 31.4-30.14 31.4-18.62 0-33.28-14.74-33.28-32.77s14.74-32.97 32.81-32.97c8.19.08 16.93 3.84 23.13 9.88l-7.06 10.54c-4.94-4.82-10.58-7.57-16.23-7.57-9.8 0-19.72 8.31-19.72 20.11 0 10.98 8.55 19.99 20.89 19.99 9.02 0 15.48-4.63 15.92-12.23h-16.35V170.3h29.71c.2 1.84.31 3.61.31 5.33ZM509.24 142.42v64.52h-.59l-37.51-36.49v35.4h-12.7v-64.44h.63l37.44 36.42v-35.4h12.74Z\"/>\n           <path class=\"cls-2\" d=\"M171.04 4.38h73.49v55.03h-73.49z\"/>\n           <rect class=\"cls-2\" x=\"166.96\" y=\"57.57\" width=\"81.65\" height=\"7.43\" rx=\".28\" ry=\".28\"/>\n           <path class=\"cls-2\" d=\"m170.55 56.35 73.24.1\"/>\n   </symbol>\n</svg>\n<nav>\n    <ul>\n        <li><a href=\"#start\">Start</a></li>\n        <li><a href=\"#cv\">Lebenslauf</a></li>\n        <Li><a href=\"#contact\">Kontakt</a></Li>\n    </ul>\n</nav>\n<h1>Webdesign Florence Ernst</h1>\n<section id=\"start\">\n    <p class=\"title\">Webdesign</p>\n    <p class=\"title\">Florence</p>\n    <p class=\"title\">Ernst</p>\n    <p>Hallo, ich bin Florence und spreche Deutsch, Englisch und Französisch.</p>\n    <a href=\"#\" class=\"green\">Deutsch</a>\n    <a href=\"./html/fr.html\" lang=\"fr\">Français</a>\n    <a href=\"./html/eng.html\" lang=\"en\">English</a>\n    <p>„In der Welt des Webdesigns ist Kreativität der Pinselstrich, Funktionalität das Fundament, und die Verbindung beider schafft eine digitale Symphonie, die die Nutzer begeistert und verführt.“</p>\n    <img src=\"\" alt=\"Bild von Florence Ernst\">\n    <a href=\"\" id=\"#contact\"></a>\n</section>\n<section id=\"Lebenslauf\" >\n    <h2>Schulische Ausbildung</h2>\n    <button></button>\n    <button></button>\n    <p class=\"green\">„Die Web-Option bildet Fachleute in den Bereichen Webdesign, Interaktionsdesign und Entwicklung von mobilen Anwendungen aus. Die Studierenden lernen, sich um visuelle Aspekte von Benutzeroberflächen und Nutzungserlebnissen zu kümmern. Ihre Ausbildung umfasst sowohl technische als auch visuelle Aspekte. Sie setzen die Entwürfe von Designern und Grafikern um und verwandeln sie in funktionierende Produkte in technischen Umgebungen. Dabei berücksichtigen sie alle technischen Einschränkungen bei der Erstellung, Nutzung und Verbreitung, insbesondere auf Netzwerken und mobilen Plattformen.“</p>\n    <h3>09.2021 – Heute: HEPL in Seraing</h3>\n    <img src=\"\" alt=\"Logo HEPL\">\n</section>\n<section>\n    <h2>Über mich</h2>\n    <img src=\"\" alt=\"Bild von Florence Ernst\">\n    <p>Nach meinem bilingualen Abschluss am Cesar Franck Athenäum in Kelmis setze ich meine Ausbildung im Bereich Web-Design an der Hochschule in Seraing (<abbr title=\"Haute École de la Province de Liège\">HEPL</abbr>) fort. Mit Deutsch als Muttersprache, Französisch aus der bilingualen Ausbildung und soliden Englischkenntnissen durch Business Englisch in der Schule, erweitere ich mein Sprachrepertoire. Zusätzlich habe ich im Oktober 2023 meinen Führerschein erworben und mir ein eigenes Auto zugelegt.</p>\n    <a href=\"\" class=\"green\" >Kurz</a>\n    <a href=\"\">Lang</a>\n</section>\n<section>\n    <h2>Meine Fähigkeiten</h2>\n    <div>\n        <article>\n            <h3>HTML/CSS</h3>\n            <p class=\"orange\">HTML (Hypertext Markup Language) ist eine Auszeichnungssprache, die zur Strukturierung von Inhalten auf Webseiten verwendet wird, während CSS (Cascading Style Sheets) die Gestaltung und das Layout dieser Inhalte steuert, indem es das Erscheinungsbild definiert.</p>\n        </article>\n        <article>\n            <h3>Javascript</h3>\n            <p class=\"orange\">JavaScript ist eine Skriptsprache, die in Verbindung mit HTML und CSS für die Interaktivität auf Webseiten sorgt, indem sie Inhalte dynamisch ändert und auf Benutzeraktionen reagiert.</p>\n        </article>\n        <article>\n            <h3>MySQL/PHP</h3>\n            <p class=\"orange\">PHP ist eine serverseitige Skriptsprache, die in Verbindung mit MySQL-Datenbanken verwendet wird, um dynamische Webseiten zu erstellen. PHP verarbeitet die Anfragen, generiert HTML und interagiert mit MySQL, um Daten zu speichern und abzurufen.</p>\n        </article>\n        <article>\n            <h3>Kunden Kommunikation</h3>\n            <p class=\"orange\">Als Sales Assistant in der Kunden Communication unterstütze ich aktiv im Verkaufsprozess, beantworte Kundenanfragen, erstelle Angebote und trage durch proaktive Kommunikation zum Erfolg des Vertriebs bei.</p>\n        </article>\n        <img src=\"\" alt=\"\">\n    </div>\n</section>\n<section>\n    <h2>Mich Kontaktieren </h2>\n    <label for=\"name\"> Ihr Name</label>\n    <input type=\"text\" id=\"name\" />\n    <label for=\"reason\">Ihr Anliegen</label>\n    <input type=\"text\" id=\"reason\" />\n    <label for=\"mail\"> Ihre Email Adresse</label>\n    <input type=\"text\" id=\"mail\" />\n    <button type=\"submit\">Absenden</button>\n    <p>Zögern Sie nicht mich zu kontaktieren</p>\n    <img src=\"\" alt=\"\">\n    <h3>Meine Email Adresse:</h3>\n    <a href=\"mailto:florence.ernst@icloud.com\" class=\"green\">florence.ernst@icloud.com</a>\n    <h3>Meine Handynummer</h3>\n    <p class=\"green\">+32 472 83 14 88</p>\n</section>\n<footer>\n    <div class=\"adress\">\n        <p>Steinkaulstr. 57A</p>\n        <p>4720, Kelmis</p>\n        <p>Belgien</p>\n    </div>\n    <a href=\"https://www.instagram.com/florencernst?igsh=bHl1OGFxMnU1M2o0&utm_source=qr\">Instagram</a>\n    <a href=\"https://api.whatsapp.com/send?phone=32472831488\">Whatsapp</a>\n    <a href=\"#\" >\n        <svg id=\"Layer_2\" data-name=\"Layer 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 524.82 207.32\">\n        <use href=\"#logo_FE\"/>\n        </svg>\n    </a>\n</footer>\n</body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	
++++ b/index.html	
+@@ -9,7 +9,7 @@
+     <title>Florence Ernst - Lebenslauf</title>
+ </head>
+ <body>
+-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0">
++<svg class="hidden" id="logo_FE" data-name="logo_Fe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0">
+    <symbol id="logo_FE">
+            <path class="cls-3" d="M78.65 17.19v12.74h21.8v12.66h-21.8v25.36h-12.7V4.53h38.1v12.66h-25.4ZM149.3 55.22v12.62h-38.1V4.65h12.7v50.57h25.4ZM327.55 13.76v12.35h21.8v12.66h-21.8v13.05h25.4v12.62h-38.1V1.25h38.1v12.5h-25.4ZM414.01 1.1v64.52h-.59l-37.51-36.49v35.4h-12.7V.08h.63l37.44 36.42V1.1h12.74ZM419.52 32.93C419.52 15.09 434.53 0 452.33 0c8.23.12 15.52 3.37 22.15 9.76l-7.33 10c-4.31-4.23-9.49-6.82-14.94-6.82-10.15 0-19.83 9.02-19.83 20.07s10.04 19.95 19.8 19.95c5.8 0 10.82-3.1 15.01-7.21l7.29 10.27c-5.57 5.53-12.35 9.68-21.91 9.68-18.23 0-33.04-15.01-33.04-32.77ZM276.64 84.16v12.35h24.44v12.66h-24.44v13.05h28.49v12.62H262.4V71.65h42.73v12.5h-28.49ZM495.79 13.76v12.35h24.44v12.66h-24.44v13.05h28.49v12.62h-42.73V1.25h42.73v12.5h-28.49ZM276.64 155.08v12.35h24.44v12.66h-24.44v13.05h28.49v12.62H262.4v-63.19h42.73v12.5h-28.49ZM93.41 155.08v12.35h24.44v12.66H93.41v13.05h28.49v12.62H79.17v-63.19h42.73v12.5H93.41ZM291.44 64.44 273.6 34.57v29.87h-11.26l-.04-63.19h18.29c10.46 0 19.05 9.09 19.05 20.46 0 8.11-4.35 15.21-10.36 17.6l15.92 25.13h-13.77Zm-17.87-34.73 7.23.04c3.82.04 7.23-3.45 7.23-7.96s-3.44-7.96-7.23-7.96h-7.23v15.88ZM344.03 134.84l-17.84-29.87v29.87h-11.26l-.04-63.19h18.29c10.46 0 19.05 9.09 19.05 20.46 0 8.11-4.35 15.21-10.36 17.6l15.92 25.13h-13.77Zm-17.87-34.73 7.23.04c3.82.04 7.23-3.45 7.23-7.96s-3.44-7.96-7.23-7.96h-7.23v15.88ZM414.01 71.49v64.52h-.59l-37.51-36.49v35.4h-12.7V70.48h.63l37.44 36.42V71.5h12.74ZM424.42 123.98l10.15-7.13c2.78 4.47 6.82 6.51 12.27 6.51 5.96 0 9.96-2.43 9.96-5.8 0-4.63-7.57-8.27-14.19-11.56-7.09-3.53-14.9-7.41-14.9-17.48 0-10.94 9.25-18.15 20.85-18.15 8.62 0 15.76 3.57 18.62 11.21l-9.37 6.55c-1.88-3.76-5.53-5.29-9.06-5.29-4.74 0-8.27 2.74-8.27 6 0 3.76 4.78 5.06 12.03 8.47 10.47 4.94 17.05 10.27 17.05 19.99 0 11.52-9.41 18.85-22.93 18.85-10.35 0-17.99-4.31-22.23-12.15ZM524.82 84.23H509.3v50.61h-12.74V84.23H481V71.65h43.83v12.58ZM0 143.34h13.68l9.72 31.87 13.56-31.63h.24l13.52 31.6 9.68-31.83h13.72l-20.58 63.97h-.74l-15.88-34.34-15.64 34.34h-.71L0 143.34ZM171.47 186.6c0 9.33-6.7 19.17-19.72 19.17h-23.87v-63.19h17.25c11.21 0 18.35 8.23 18.35 16.74 0 6.7-4.43 10.86-5.96 10.86 6.08 0 13.96 6.27 13.96 16.42Zm-30.93-31.68v12.35h5.14c3.02 0 5.96-2.59 5.96-6.27s-2.78-6.08-5.72-6.08h-5.37Zm18.54 30.78c0-3.65-2.51-7.29-8.55-7.29h-10v14.97h10.04c4.12 0 8.51-2.82 8.51-7.68ZM253.4 174.25c0 19.6-12.47 31.52-32.89 31.52h-18.38v-63.15l18.38-.04c20.42-.04 32.89 11.96 32.89 31.67Zm-12.81-.04c0-11.84-7.6-19.05-20.11-19.05h-5.68v37.95h5.8c12.43 0 19.99-7.13 19.99-18.89ZM309.83 194.91l10.15-7.13c2.78 4.47 6.82 6.51 12.27 6.51 5.96 0 9.96-2.43 9.96-5.8 0-4.63-7.57-8.27-14.19-11.56-7.1-3.53-14.9-7.41-14.9-17.48 0-10.94 9.25-18.15 20.85-18.15 8.62 0 15.76 3.57 18.62 11.21l-9.37 6.55c-1.88-3.76-5.53-5.29-9.06-5.29-4.74 0-8.27 2.74-8.27 6 0 3.76 4.78 5.06 12.03 8.47 10.47 4.94 17.05 10.27 17.05 19.99 0 11.52-9.41 18.85-22.93 18.85-10.35 0-17.99-4.31-22.23-12.15ZM363.19 142.58h12.7v63.19h-12.7v-63.19ZM452.02 175.64c0 19.83-13.68 31.4-30.14 31.4-18.62 0-33.28-14.74-33.28-32.77s14.74-32.97 32.81-32.97c8.19.08 16.93 3.84 23.13 9.88l-7.06 10.54c-4.94-4.82-10.58-7.57-16.23-7.57-9.8 0-19.72 8.31-19.72 20.11 0 10.98 8.55 19.99 20.89 19.99 9.02 0 15.48-4.63 15.92-12.23h-16.35V170.3h29.71c.2 1.84.31 3.61.31 5.33ZM509.24 142.42v64.52h-.59l-37.51-36.49v35.4h-12.7v-64.44h.63l37.44 36.42v-35.4h12.74Z"/>
+            <path class="cls-2" d="M171.04 4.38h73.49v55.03h-73.49z"/>
+@@ -17,6 +17,7 @@
+            <path class="cls-2" d="m170.55 56.35 73.24.1"/>
+    </symbol>
+ </svg>
++
+ <nav>
+     <ul>
+         <li><a href="#start">Start</a></li>
+@@ -25,17 +26,19 @@
+     </ul>
+ </nav>
+ <h1>Webdesign Florence Ernst</h1>
+-<section id="start">
+-    <p class="title">Webdesign</p>
+-    <p class="title">Florence</p>
+-    <p class="title">Ernst</p>
+-    <p>Hallo, ich bin Florence und spreche Deutsch, Englisch und Französisch.</p>
+-    <a href="#" class="green">Deutsch</a>
+-    <a href="./html/fr.html" lang="fr">Français</a>
+-    <a href="./html/eng.html" lang="en">English</a>
+-    <p>„In der Welt des Webdesigns ist Kreativität der Pinselstrich, Funktionalität das Fundament, und die Verbindung beider schafft eine digitale Symphonie, die die Nutzer begeistert und verführt.“</p>
++<section id="start" class="container">
++    <div class="start">
++        <p class="title">Webdesign</p>
++        <p class="title">Florence</p>
++        <p class="title">Ernst</p>
++    </div>
++    <p class="middle">Hallo, ich bin Florence und spreche Deutsch, Englisch und Französisch.</p>
++    <a href="#" class="lang">Deutsch</a>
++    <a href="./html/fr.html" lang="fr" class="lang">Français</a>
++    <a href="./html/eng.html" lang="en" class="lang">English</a>
++    <q class="cite">„In der Welt des Webdesigns ist Kreativität der Pinselstrich, Funktionalität das Fundament, und die Verbindung beider schafft eine digitale Symphonie, die die Nutzer begeistert und verführt.“</q>
+     <img src="" alt="Bild von Florence Ernst">
+-    <a href="" id="#contact"></a>
++    <a href="#contact">Mich Kontaktieren</a>
+ </section>
+ <section id="Lebenslauf" >
+     <h2>Schulische Ausbildung</h2>
+@@ -52,9 +55,9 @@
+     <a href="" class="green" >Kurz</a>
+     <a href="">Lang</a>
+ </section>
+-<section>
++<section >
+     <h2>Meine Fähigkeiten</h2>
+-    <div>
++    <div class="container">
+         <article>
+             <h3>HTML/CSS</h3>
+             <p class="orange">HTML (Hypertext Markup Language) ist eine Auszeichnungssprache, die zur Strukturierung von Inhalten auf Webseiten verwendet wird, während CSS (Cascading Style Sheets) die Gestaltung und das Layout dieser Inhalte steuert, indem es das Erscheinungsbild definiert.</p>
+@@ -74,7 +77,7 @@
+         <img src="" alt="">
+     </div>
+ </section>
+-<section>
++<section id="contact">
+     <h2>Mich Kontaktieren </h2>
+     <label for="name"> Ihr Name</label>
+     <input type="text" id="name" />
+@@ -96,10 +99,10 @@
+         <p>4720, Kelmis</p>
+         <p>Belgien</p>
+     </div>
+-    <a href="https://www.instagram.com/florencernst?igsh=bHl1OGFxMnU1M2o0&utm_source=qr">Instagram</a>
++    <a href="https://www.instagram.com/florencernst?igsh=bHl1OGFxMnU1M2o0&utm_source=qr" >Instagram</a>
+     <a href="https://api.whatsapp.com/send?phone=32472831488">Whatsapp</a>
+     <a href="#" >
+-        <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 524.82 207.32">
++        <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 524.82 207.32" height="30px">
+         <use href="#logo_FE"/>
+         </svg>
+     </a>
+Index: style/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.cls-2{stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:6px;fill: #ffffff\n}  .cls-3{fill: #000000;stroke-width:0}\n\nbody {\n    font-family: Poppins, sans-serif;\n    font-size: 15px;\n    font-weight: 600;\n    line-height: 20px;\n    color: black;\n}\n.green {\n    background-color: #007C72;\n}\n.orange {\n    background-color: #DA4A2F;\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/style/style.css b/style/style.css
+--- a/style/style.css	
++++ b/style/style.css	
+@@ -7,10 +7,101 @@
+     font-weight: 600;
+     line-height: 20px;
+     color: black;
++
++}
++.container{
++    display: grid;
++;
+ }
+ .green {
+     background-color: #007C72;
+ }
+ .orange {
+     background-color: #DA4A2F;
+-}
+\ No newline at end of file
++}
++h1 {
++    display: none;
++}
++
++.hidden{
++    display:none;
++}
++
++a {
++    color: black;
++    text-decoration: none;
++}
++li{
++    list-style: none;
++}
++
++li>a {
++    font-size: 16px;
++}
++li>a:hover{
++    font-size: 16px;
++    text-decoration: none;
++    color: #007C72;
++    list-style: none;
++}
++li:first-child {
++    color:#007C72;
++}
++ul{
++    display: grid;
++    grid: auto-flow / 1fr 1fr 1fr;
++}
++
++/*///////////////////////////start/////////////////////*/
++
++#start{
++    display: grid;
++    grid-template-columns: 2fr repeat(2, 1fr);
++    grid-template-rows: repeat(3, 1fr);
++    grid-column-gap: 0px;
++    grid-row-gap: 0px;
++}
++div.start{
++    font-size: 40px;
++    font-weight: 400;
++    line-height: 1px;
++    grid-area: 1 / 1 / 2 / 2;
++}
++p.middle{
++    grid-area: 1 / 2 / 2 / 3;
++}
++#start{
++    grid-area: 1 / 3 / 2 / 4;
++}
++q{
++    grid-area: 2 / 1 / 4 / 2;
++    align-self: center;
++}
++#start>img{
++    grid-area: 2 / 2 / 3 / 4;
++}
++.lang{
++    grid-area: 1 / 3 / 2 / 4;
++}
++
++        /*//////////////////intern////////////*/
++p.title{
++    display: grid;
++    grid-template-columns: 1fr 1fr;
++    grid-template-rows: repeat(3, 1fr);
++    grid-column-gap: 0px;
++    grid-row-gap: 0px;
++}
++
++div>p.title:first-child{
++    grid-area: 1 / 1 / 2 / 2;
++}
++div>p.title:nth-child(2){
++    grid-area: 2 / 2 / 3 / 3;
++    text-align: right;
++}
++
++div>p.title:last-child{
++    grid-area: 3 / 2 / 4 / 3;
++    text-align: right;
++}
+Index: .gitignore
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/.gitignore	
+@@ -0,0 +1,2 @@
++./idea
++./svg
+Index: .idea/php.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"MessDetectorOptionsConfiguration\">\n    <option name=\"transferred\" value=\"true\" />\n  </component>\n  <component name=\"PHPCSFixerOptionsConfiguration\">\n    <option name=\"transferred\" value=\"true\" />\n  </component>\n  <component name=\"PHPCodeSnifferOptionsConfiguration\">\n    <option name=\"highlightLevel\" value=\"WARNING\" />\n    <option name=\"transferred\" value=\"true\" />\n  </component>\n  <component name=\"PhpStanOptionsConfiguration\">\n    <option name=\"transferred\" value=\"true\" />\n  </component>\n  <component name=\"PsalmOptionsConfiguration\">\n    <option name=\"transferred\" value=\"true\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/php.xml b/.idea/php.xml
+--- a/.idea/php.xml	
++++ b/.idea/php.xml	
+@@ -10,6 +10,7 @@
+     <option name="highlightLevel" value="WARNING" />
+     <option name="transferred" value="true" />
+   </component>
++  <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+   <component name="PhpStanOptionsConfiguration">
+     <option name="transferred" value="true" />
+   </component>
